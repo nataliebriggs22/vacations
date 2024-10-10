@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project xmlns="https://www.dita-ot.org/project">
+    <context id="kmxCRfVDBcFSMSm" name="Taylor Swift">
+        <input href="../vacation-packages.ditamap"/>
+        <profile>
+            <ditaval href="../taylor-swift.ditaval"/>
+        </profile>
+    </context>
+</project>
